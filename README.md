@@ -1,7 +1,7 @@
 
-# V connect
+# Connect 4
 
-Welcome to V Connect! This game is an interactive puzzle game that challenges players to strategically connect a series of dots on a grid. In this game, I have implemented  artificial intelligence algorithms including Minimax and Q-learning, which enhance the playing experience by providing challenging AI opponents.
+Welcome to Connect 4! This game is an interactive puzzle game that challenges players to strategically connect a series of dots on a grid. In this game, I have implemented  artificial intelligence algorithms including Minimax and Q-learning, which enhance the playing experience by providing challenging AI opponents.
 
 
 
